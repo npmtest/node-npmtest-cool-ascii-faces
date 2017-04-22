@@ -1,4 +1,7 @@
-# test coverage for  [cool-ascii-faces (v1.3.4)](https://github.com/maxogden/cool-ascii-faces)  [![npm package](https://img.shields.io/npm/v/npmtest-cool-ascii-faces.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cool-ascii-faces) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cool-ascii-faces.svg)](https://travis-ci.org/npmtest/node-npmtest-cool-ascii-faces)
+# npmtest-cool-ascii-faces
+
+#### basic test coverage for  [cool-ascii-faces (v1.3.4)](https://github.com/maxogden/cool-ascii-faces)  [![npm package](https://img.shields.io/npm/v/npmtest-cool-ascii-faces.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cool-ascii-faces) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cool-ascii-faces.svg)](https://travis-ci.org/npmtest/node-npmtest-cool-ascii-faces)
+
 #### get some cool ascii faces ヽ༼ຈل͜ຈ༽ﾉ
 
 [![NPM](https://nodei.co/npm/cool-ascii-faces.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cool-ascii-faces)
